@@ -3,5 +3,6 @@
 
 *** 
 
-[Lecture 57](https://github.com/tsmahur/temp_solution/tree/master/Lecture57)
-[Lecture 58](https://github.com/tsmahur/temp_solution/tree/master/Lecture58)
+[Lecture 57](https://tsmahur.github.io/temp_solution/Lecture57)
+
+[Lecture 58](https://tsmahur.github.io/temp_solution/Lecture58)
